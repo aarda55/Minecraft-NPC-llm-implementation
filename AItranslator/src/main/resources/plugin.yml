@@ -1,0 +1,4 @@
+name: AItranslator
+version: '${project.version}'
+main: dev.siea.aitranslator.AItranslator
+api-version: 1.20
